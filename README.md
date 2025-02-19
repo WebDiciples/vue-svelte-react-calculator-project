@@ -53,7 +53,7 @@ If you're looking for an easy entry into modern front-end development, **Svelte*
 To run the calculators in each framework:
 ```bash
 # Clone the repository
-git clone https://github.com/WebDiciples/vue-svelte-react-calculator-project
+git clone https://github.com/WebDiciples/vue-svelte-react-calculator-project.git
 cd vue-svelte-react-calculator-project
 
 # Navigate to the respective framework folder and install dependencies
