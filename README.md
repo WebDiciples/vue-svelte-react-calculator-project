@@ -71,5 +71,7 @@ This project is open-source under the MIT License.
 - Svelte: [https://svelte.dev](https://svelte.dev)
 - React: [https://react.dev](https://react.dev)
 
+![Calculator Preview](screenshot.png)
+
 Feel free to contribute or share your thoughts!
 
